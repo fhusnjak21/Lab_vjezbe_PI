@@ -1,0 +1,6 @@
+C:\Users\foi.LABOS\Desktop\Evaluation manager - labosi\DBLayer\bin\Debug\DBLayer.dll
+C:\Users\foi.LABOS\Desktop\Evaluation manager - labosi\DBLayer\bin\Debug\DBLayer.pdb
+C:\Users\foi.LABOS\Desktop\Evaluation manager - labosi\DBLayer\obj\Debug\DBLayer.csproj.AssemblyReference.cache
+C:\Users\foi.LABOS\Desktop\Evaluation manager - labosi\DBLayer\obj\Debug\DBLayer.csproj.CoreCompileInputs.cache
+C:\Users\foi.LABOS\Desktop\Evaluation manager - labosi\DBLayer\obj\Debug\DBLayer.dll
+C:\Users\foi.LABOS\Desktop\Evaluation manager - labosi\DBLayer\obj\Debug\DBLayer.pdb

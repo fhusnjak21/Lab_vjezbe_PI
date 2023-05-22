@@ -1,0 +1,32 @@
+E:\Gluposti\Visual Studio\Evaluation manager - labosi\Evaluation manager - labosi\bin\Debug\Evaluation manager - labosi.exe.config
+E:\Gluposti\Visual Studio\Evaluation manager - labosi\Evaluation manager - labosi\bin\Debug\Evaluation manager - labosi.exe
+E:\Gluposti\Visual Studio\Evaluation manager - labosi\Evaluation manager - labosi\bin\Debug\Evaluation manager - labosi.pdb
+E:\Gluposti\Visual Studio\Evaluation manager - labosi\Evaluation manager - labosi\obj\Debug\Evaluation manager - labosi.csproj.AssemblyReference.cache
+E:\Gluposti\Visual Studio\Evaluation manager - labosi\Evaluation manager - labosi\obj\Debug\Evaluation manager - labosi.csproj.SuggestedBindingRedirects.cache
+E:\Gluposti\Visual Studio\Evaluation manager - labosi\Evaluation manager - labosi\obj\Debug\Evaluation_manager___labosi.Properties.Resources.resources
+E:\Gluposti\Visual Studio\Evaluation manager - labosi\Evaluation manager - labosi\obj\Debug\Evaluation manager - labosi.csproj.GenerateResource.cache
+E:\Gluposti\Visual Studio\Evaluation manager - labosi\Evaluation manager - labosi\obj\Debug\Evaluation manager - labosi.csproj.CoreCompileInputs.cache
+E:\Gluposti\Visual Studio\Evaluation manager - labosi\Evaluation manager - labosi\obj\Debug\Evaluation manager - labosi.exe
+E:\Gluposti\Visual Studio\Evaluation manager - labosi\Evaluation manager - labosi\obj\Debug\Evaluation manager - labosi.pdb
+E:\Gluposti\Visual Studio\Evaluation manager - labosi\Evaluation manager - labosi\obj\Debug\Evaluation_manager___labosi.FrmLogin.resources
+E:\Gluposti\Visual Studio\Evaluation manager - labosi\Evaluation manager - labosi\obj\Debug\Evaluation_manager___labosi.FrmStudents.resources
+E:\Gluposti\Visual Studio\Evaluation manager - labosi\Evaluation manager - labosi\bin\Debug\DBLayer.dll
+E:\Gluposti\Visual Studio\Evaluation manager - labosi\Evaluation manager - labosi\obj\Debug\Evaluation manager - labosi.csproj.CopyComplete
+E:\Gluposti\Visual Studio\Evaluation manager - labosi\Evaluation manager - labosi\obj\Debug\Evaluation_manager___labosi.FrmEvaluation.resources
+C:\Users\foi.LABOS\Desktop\Evaluation manager - labosi\Evaluation manager - labosi\bin\Debug\Evaluation manager - labosi.exe.config
+C:\Users\foi.LABOS\Desktop\Evaluation manager - labosi\Evaluation manager - labosi\bin\Debug\Evaluation manager - labosi.exe
+C:\Users\foi.LABOS\Desktop\Evaluation manager - labosi\Evaluation manager - labosi\bin\Debug\Evaluation manager - labosi.pdb
+C:\Users\foi.LABOS\Desktop\Evaluation manager - labosi\Evaluation manager - labosi\bin\Debug\DBLayer.dll
+C:\Users\foi.LABOS\Desktop\Evaluation manager - labosi\Evaluation manager - labosi\obj\Debug\Evaluation manager - labosi.csproj.AssemblyReference.cache
+C:\Users\foi.LABOS\Desktop\Evaluation manager - labosi\Evaluation manager - labosi\obj\Debug\Evaluation manager - labosi.csproj.SuggestedBindingRedirects.cache
+C:\Users\foi.LABOS\Desktop\Evaluation manager - labosi\Evaluation manager - labosi\obj\Debug\Evaluation_manager___labosi.FrmEvaluation.resources
+C:\Users\foi.LABOS\Desktop\Evaluation manager - labosi\Evaluation manager - labosi\obj\Debug\Evaluation_manager___labosi.FrmLogin.resources
+C:\Users\foi.LABOS\Desktop\Evaluation manager - labosi\Evaluation manager - labosi\obj\Debug\Evaluation_manager___labosi.FrmStudents.resources
+C:\Users\foi.LABOS\Desktop\Evaluation manager - labosi\Evaluation manager - labosi\obj\Debug\Evaluation_manager___labosi.Properties.Resources.resources
+C:\Users\foi.LABOS\Desktop\Evaluation manager - labosi\Evaluation manager - labosi\obj\Debug\Evaluation manager - labosi.csproj.GenerateResource.cache
+C:\Users\foi.LABOS\Desktop\Evaluation manager - labosi\Evaluation manager - labosi\obj\Debug\Evaluation manager - labosi.csproj.CoreCompileInputs.cache
+C:\Users\foi.LABOS\Desktop\Evaluation manager - labosi\Evaluation manager - labosi\obj\Debug\Evaluation manager - labosi.csproj.CopyComplete
+C:\Users\foi.LABOS\Desktop\Evaluation manager - labosi\Evaluation manager - labosi\obj\Debug\Evaluation manager - labosi.exe
+C:\Users\foi.LABOS\Desktop\Evaluation manager - labosi\Evaluation manager - labosi\obj\Debug\Evaluation manager - labosi.pdb
+C:\Users\foi.LABOS\Desktop\Evaluation manager - labosi\Evaluation manager - labosi\obj\Debug\Evaluation_manager___labosi.FrmFinalReport.resources
+C:\Users\foi.LABOS\Desktop\Evaluation manager - labosi\Evaluation manager - labosi\bin\Debug\DBLayer.pdb
